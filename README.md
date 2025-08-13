@@ -36,6 +36,29 @@ It provides key insights into order trends, delivery efficiency, payment prefere
 - Monthly New Customer Trend – Track customer acquisition rates over time
 
 ## 📈 Dashboard Preview
-- <a href=""
+- <a href="https://github.com/shahista-shaikh/Blinkit-Delivery-Performance-Monitor-Dashboard/blob/main/Screenshot%202025-08-12%20160457.png">View Dashboard</a>
+
+## 📂 Dataset
+The dataset includes:
+
+- Order Details: Order date, promised delivery time, actual delivery time, delivery status
+
+- Customer Info: Customer ID, location, first order date
+
+- Payment Info: Payment method, order amount
+Dataset used
+- <a href="https://github.com/shahista-shaikh/Blinkit-Delivery-Performance-Monitor-Dashboard/blob/main/blinkit_customers.csv">Blinkit Customers Data</a>
+- <a href="https://github.com/shahista-shaikh/Blinkit-Delivery-Performance-Monitor-Dashboard/blob/main/blinkit_orders.csv">Blinkit Orders Data</a>
+
+## 🎯 Business Impact
+This dashboard helps operations and management teams to:
+
+- Identify bottlenecks in delivery performance
+
+- Monitor delivery time efficiency
+
+- Optimize payment method offerings
+
+- Track customer acquisition and retention trends
 
 
