@@ -61,4 +61,8 @@ This dashboard helps operations and management teams to:
 
 - Track customer acquisition and retention trends
 
+## Dashboard
+<img width="1286" height="728" alt="Screenshot 2025-08-12 160457" src="https://github.com/user-attachments/assets/8acccaa8-0899-40d3-8e1b-6209029a0e77" />
+
+
 
