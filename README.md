@@ -1,4 +1,4 @@
-# Blinkit-Delivery-Performance-Monitor-
+# Blinkit Orders,Delivery & Customer Insights 
 ## 📌 Project Overview
 This Power BI dashboard delivers a comprehensive performance analysis of Blinkit’s operations, including orders, delivery efficiency, payment trends, and customer acquisition. It’s designed to support data-driven decision-making for business growth.
 
