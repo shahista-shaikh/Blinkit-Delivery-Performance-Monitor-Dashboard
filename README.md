@@ -1,40 +1,69 @@
 # Blinkit-Delivery-Performance-Monitor-
 ## 📌 Project Overview
-This project presents a Power BI dashboard designed to monitor and analyze Blinkit’s delivery performance.
-It provides key insights into order trends, delivery efficiency, payment preferences, and customer acquisition to support data-driven decision-making for operations improvement.
+This Power BI dashboard delivers a comprehensive performance analysis of Blinkit’s operations, including orders, delivery efficiency, payment trends, and customer acquisition. It’s designed to support data-driven decision-making for business growth.
 
 ## 🛠 Tools & Technologies
 - Power BI – Data modeling & visualization
 
 - DAX – Custom calculations and measures
 
-- Excel/CSV – Dataset source
+- CSV – Dataset source
 
 - Data Cleaning & Transformation – Power Query
 
 ## 📊 Key Features
-### 1. Delivery Performance KPIs
-- Total Orders – Overall count of orders placed
+### - Core KPIs:
 
-- On-Time Delivery Rate – % of orders delivered on or before promised time
+  - Total Orders
 
-- Average Delivery Time – Avg. delivery duration for completed orders
+  - On-Time Delivery Rate (%)
 
-- Average Delayed Time – Avg. time by which delayed orders exceeded the promised delivery
+  - Average Delivery Time (%)
 
-### 2. Order Insights
-- Order Distribution by Status – On time, slightly delayed, and significantly delayed orders
+  - Average Delay Time (%)
 
-- Top & Bottom Customers by Orders – Identify best and least performing customers in terms of order volume
+### - Order Insights:
 
-### 3. Payment Analysis
-- Order Distribution by Payment Method – Wallet, UPI, Cash, and Card
+  - Top 5 Cities by Total Orders
 
-### 4. Trend Analysis
-- Delivery Trends Over Time – Monthly trend comparison of on-time vs total orders
+  - Bottom 5 Cities by Total Orders
 
-- Monthly New Customer Trend – Track customer acquisition rates over time
+  - Order Distribution by Delivery Status
 
+### - Customer Insights:
+
+  - Monthly New Customer Trends
+
+  - Delivery Trends Over Months (On-Time vs Total Orders)
+
+### - Payment Analysis:
+
+  - Order Distribution by Payment Method (Cash, Card, UPI, Wallet)
+
+## 📊 Visual Elements
+
+- KPI Cards for high-level performance tracking
+
+- Bar Charts for top/bottom city analysis
+
+- Funnel Chart for order status breakdown
+
+- Line Chart for delivery trends over time
+
+- Area Chart for new customer growth
+
+- Donut Chart for payment method split
+
+## 💡 Insights
+
+- ~69% of orders are delivered on time
+
+- Wallet is the most preferred payment method (30.7%)
+
+- New customer acquisition trend is declining over recent months
+
+- Certain cities consistently underperform in order volume
+  
 ## 📈 Dashboard Preview
 - <a href="https://github.com/shahista-shaikh/Blinkit-Delivery-Performance-Monitor-Dashboard/blob/main/Screenshot%202025-08-12%20160457.png">View Dashboard</a>
 
@@ -50,16 +79,6 @@ The dataset includes:
 - <a href="https://github.com/shahista-shaikh/Blinkit-Delivery-Performance-Monitor-Dashboard/blob/main/blinkit_customers.csv">Blinkit Customers Data</a>
 - <a href="https://github.com/shahista-shaikh/Blinkit-Delivery-Performance-Monitor-Dashboard/blob/main/blinkit_orders.csv">Blinkit Orders Data</a>
 
-## 🎯 Business Impact
-This dashboard helps operations and management teams to:
-
-- Identify bottlenecks in delivery performance
-
-- Monitor delivery time efficiency
-
-- Optimize payment method offerings
-
-- Track customer acquisition and retention trends
 
 ## Dashboard
 <img width="1286" height="728" alt="Screenshot 2025-08-12 160457" src="https://github.com/user-attachments/assets/8acccaa8-0899-40d3-8e1b-6209029a0e77" />
